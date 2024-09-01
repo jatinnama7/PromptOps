@@ -1,6 +1,6 @@
 # 🧮 Arithmetic Calculator
 
-![Calculator Graphic](https://via.placeholder.com/800x200?text=Arithmetic+Calculator) <!-- Placeholder image URL, replace with actual if needed -->
+![Calculator Graphic](https://img.freepik.com/free-photo/calculator-with-smartphone-table_23-2147953152.jpg?t=st=1725171129~exp=1725174729~hmac=a53f3614169b055e0ce9683975fbc49e2267c02809b43a86675b715142ac1ba4&w=1060) <!-- Placeholder image URL, replace with actual if needed -->
 
 An interactive Arithmetic Calculator built using HTML, CSS, JavaScript, and Python (Flask)! This project allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division directly from your browser. 🚀
 
@@ -61,7 +61,7 @@ Make sure you have the following installed:
 2. **Select an operation** (Addition, Subtraction, Multiplication, or Division) from the dropdown menu.
 3. **Click the "Calculate" button** to see the result displayed instantly.
 
-![Calculator UI](https://via.placeholder.com/400x300?text=Calculator+UI) <!-- Placeholder image URL, replace with actual if needed -->
+![Calculator UI](images/UI.png) <!-- Placeholder image URL, replace with actual if needed -->
 
 ### Example
 
